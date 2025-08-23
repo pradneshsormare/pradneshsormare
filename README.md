@@ -8,8 +8,12 @@
 
 
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradneshsormare&label=Profile%20views&color=0e75b6&style=flat" alt="pradneshsormare" /> </p>
 
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmk3djJ6cTcxbGs2MHI4bWplYzhmNzllY2lwOTN3N3o3ZG5ndnF2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" alt="Profile GIF" width="200" height="200" style="border-radius: 50%; border: 3px solid #ddd;" />
+</p>
 
 
 <h3 align="left">Connect with me:</h3>
