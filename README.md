@@ -14,6 +14,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="[https://www.linkedin.com/in/pradneshsormare](https://www.linkedin.com/in/pradnesh-sormare-3592082b2/)" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+</p>
+
+<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
